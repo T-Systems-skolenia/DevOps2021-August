@@ -4,7 +4,8 @@ Jahodka je:
 
 * fajna
 * dozreta
-* perfektnnaanaaa
+* perfektnaaaa
+* **peckova**
 * manimani
 * cervena
 * **mnam!**
