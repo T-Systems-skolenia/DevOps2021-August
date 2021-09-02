@@ -3,9 +3,11 @@
 Jahodka je:
 
 * fajna
-* **perfektna**
-* chutna
+* dozreta
+* perfektna
 * cervena
-* mnam!
+* **mnam!**
 
 A toto je *koniec*.
+
+A toto je uz uplny koniec.
