@@ -1,3 +1,5 @@
+# LOKALNA ZMENA
+
 # Toto je jahodka
 
 Jahodka je:
