@@ -1,4 +1,4 @@
-# Toto je jahodka
+# Toto je JAHODKA
 
 Jahodka je:
 
