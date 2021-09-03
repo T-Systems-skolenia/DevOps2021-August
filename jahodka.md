@@ -8,7 +8,7 @@ Jahodka je:
 * **peckova**
 * manimani
 * cervena
-* **mnam!**
+* **mnam!** nova zmena
 
 A toto je *koniec*.
 
