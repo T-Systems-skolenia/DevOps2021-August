@@ -9,3 +9,6 @@ Malinka je:
 A toto je *koniec*.
 
 A toto je uz uplny koniec.
+
+
+ZMENA V NOVEJ BRANCHI
