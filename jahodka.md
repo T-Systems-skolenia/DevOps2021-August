@@ -2,7 +2,7 @@
 
 Jahodka je:
 
-* fajna
+* fajn       toto je zmena
 * dozreta
 * perfektnaaaa
 * **peckova**
