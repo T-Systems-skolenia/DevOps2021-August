@@ -2,7 +2,7 @@
 
 Jahodka je:
 
-* fajn       toto je zmena
+* fn       toto je zmena
 * dozreta
 * cervena
 * **mnam!** nova zmena
@@ -10,3 +10,8 @@ Jahodka je:
 A toto je *koniec*.
 
 A toto je uz uplny koniec.
+
+
+
+fjsdla
+jklsdfaj
